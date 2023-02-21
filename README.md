@@ -1,16 +1,33 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Rishabh!+👋;I'm+a+Software+Engineer;I+build+amazing+products)
+<!-- <h1 align="center">Hi 👋, I'm Rishabh</h1> -->
 
-<!--
-**rishabhsharma3617/rishabhsharma3617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate Mobile Engineer. Love to build Mobile Applications with Flutter and everything around 😄
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+### I am Software Engineer II at Gojek 
+- 🔭 I’m currently building GoPay - leading Indonesia's e-wallet solution .
+- 🌱 I play guitar in my free time . 
+- 👯 I’m open for tech talks and events .
+- 🥅 2023 Goals: Learn Web3 .
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I can sing Oprah .
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</br>
+
+<h3 align="left">▶ Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/rishabh-sharma3617/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+  </p>
+<p>rishabhsharma3617@gmail.com</p>
+</br>
+
