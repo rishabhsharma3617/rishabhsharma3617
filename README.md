@@ -10,7 +10,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am Software Engineer II at Gojek 
+### I am Software Engineer II at Gojek <img align="right" margin-top="20px" margin-right="100px" height="50px" alt="GIF" src="https://1000logos.net/wp-content/uploads/2020/11/Gojek-Logo.png" />
 - 🔭 I’m currently building GoPay - leading Indonesia's e-wallet solution .
 - 🌱 I play guitar in my free time . 
 - 👯 I’m open for tech talks and events .
