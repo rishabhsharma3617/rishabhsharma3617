@@ -16,7 +16,6 @@
 - 👯 I’m open for tech talks and events .
 - 🥅 2023 Goals: Learn Web3 .
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I can sing Oprah .
 <!-- ### Blogs posts -->
